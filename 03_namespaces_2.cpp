@@ -1,3 +1,5 @@
+// author - hashbanger
+
 #include<iostream>
 
 using namespace std; // uses the entire namespaces

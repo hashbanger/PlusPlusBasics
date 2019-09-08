@@ -1,3 +1,5 @@
+// author - hashbanger
+
 #include<iostream>
 
 using std::cout;

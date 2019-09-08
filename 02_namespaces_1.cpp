@@ -1,3 +1,5 @@
+// author - hashbanger
+
 #include<iostream>
 
 // This is a single line comment
